@@ -4,7 +4,6 @@ function Home() {
   return (
     <div className="mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-3xl">
       <div className="md:flex">
-        <div className="md:shrink-0"></div>
         <div className="p-8">
           <div className="uppercase tracking-wide  text-black-500 font-semibold">
             React Topics
